@@ -1,5 +1,7 @@
 # Podstream
 <div align='center'>
+  
+![image](https://github.com/JuanRojasDev/Podstream/assets/114270458/7a4d7a7f-06d5-432f-b880-6a31ab57f05d)
 
 ![GitHub issues](https://img.shields.io/github/issues/rishavchanda/Podstream)
 ![GitHub forks](https://img.shields.io/github/forks/rishavchanda/Podstream)
